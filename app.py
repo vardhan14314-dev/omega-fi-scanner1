@@ -7,7 +7,7 @@ import os
 app = Flask(__name__)
 
 # Free API key - you can get your own from finnhub.io
-FINNHUB_KEY = "cuo0l5hr5gm6aj7av5sg"
+FINNHUB_KEY = "d4oin7pr01qtc1ovti4gd4oin7pr01qtc1ovti50"
 
 # Nifty 50 stocks to scan
 NIFTY_50_STOCKS = [
